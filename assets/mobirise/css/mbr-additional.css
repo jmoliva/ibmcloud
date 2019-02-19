@@ -1420,6 +1420,14 @@ body {
     font-size: 40px !important;
   }
 }
+.cid-rixpBrWCav {
+  padding-top: 60px;
+  padding-bottom: 45px;
+  background-color: #b2ccd2;
+}
+.cid-rixpBrWCav .mbr-section-subtitle {
+  color: #767676;
+}
 .cid-rcAJVs7djz {
   padding-top: 30px;
   padding-bottom: 30px;
@@ -1507,14 +1515,6 @@ body {
 }
 .cid-rcAJVs7djz .body-item {
   text-align: left;
-}
-.cid-rixpBrWCav {
-  padding-top: 60px;
-  padding-bottom: 60px;
-  background-color: #ffffff;
-}
-.cid-rixpBrWCav .mbr-section-subtitle {
-  color: #767676;
 }
 .cid-qyCcnV5DES .navbar {
   padding: .5rem 0;
